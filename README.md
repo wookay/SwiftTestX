@@ -1,3 +1,6 @@
 # SwiftTestX
 
-A description of this package.
+```
+~/swift/SwiftTestX$ swift run
+hello macOS
+```
